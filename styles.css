@@ -86,7 +86,8 @@ section {
 
 #tropicalia .container {
     display: flex;
-    align-items: center;
+    align-items: cent
+er;
     justify-content: center;
     position: relative;
     z-index: 1;
